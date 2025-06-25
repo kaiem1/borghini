@@ -3,7 +3,7 @@ import React from 'react';
 const page = () => {
   return (
     <div>
-      <h1>This is Hini.</h1>
+      <h1>This is Hinis.</h1>
     </div>
   );
 };
